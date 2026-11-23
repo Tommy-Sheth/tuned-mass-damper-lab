@@ -1,0 +1,46 @@
+height at P, zeta_d = 0.02 | 11.00757 | 11.00757 | 2.3e−7 rel. | 1e−6 | ok
+height at Q, zeta_d = 0.02 | 11.00757 | 11.00757 | 1.4e−7 rel. | 1e−6 | ok
+height at P, zeta_d = 0.25 | 11.00757 | 11.00757 | 7.0e−8 rel. | 1e−6 | ok
+height at Q, zeta_d = 0.25 | 11.00757 | 11.00757 | 6.3e−8 rel. | 1e−6 | ok
+frequency of P from the quadratic | 0.9456583 | 0.9456583 | 4.0e−9 rel. | 1e−8 | ok
+frequency of Q from the quadratic | 1.035851 | 1.035851 | 3.1e−9 rel. | 1e−8 | ok
+peak amplification, no damper | 33.33708 | 33.33708 | 4.7e−14 rel. | 1e−6 | ok
+peak amplification, H2 optimum | 9.254701 | 9.254701 | 1.5e−15 rel. | 1e−6 | ok
+peak amplification, H-infinity optimum | 8.558381 | 8.558381 | 1.0e−15 rel. | 1e−6 | ok
+peak amplification, Den Hartog | 8.765039 | 8.765039 | 2.0e−16 rel. | 1e−6 | ok
+peak amplification, untuned | 23.87709 | 23.87709 | 1.0e−14 rel. | 1e−6 | ok
+peak amplification, robust | 10.07065 | 10.07065 | 8.8e−15 rel. | 1e−6 | ok
+RMS sway ratio, H2 optimum | 0.5841498 | 0.5841498 | 1.1e−15 rel. | 1e−8 | ok
+RMS sway ratio, H-infinity optimum | 0.5890231 | 0.5890231 | 7.7e−15 rel. | 1e−8 | ok
+RMS sway ratio, Den Hartog | 0.5871153 | 0.5871153 | 4.9e−15 rel. | 1e−8 | ok
+RMS sway ratio, untuned | 0.7957531 | 0.7957531 | 6.6e−15 rel. | 1e−8 | ok
+RMS sway ratio, robust | 0.594607 | 0.594607 | 8.6e−15 rel. | 1e−8 | ok
+share of power taken by the damper, H2 | 0.6600255 | 0.6600255 | 1.5e−15 rel. | 1e−8 | ok
+spectral level S0 | 3.7101e+12 | 3.7101e+12 | 1.4e−7 rel. | 1e−6 | ok
+force standard deviation | 3.6481e+5 | 3.6481e+5 | 6.8e−8 rel. | 1e−6 | ok
+expected peak acceleration, H2 optimum (milli-g) | 4.410531 | 4.410531 | 7.0e−8 rel. | 1e−6 | ok
+RMS damper stroke, H2 optimum (m) | 0.07965152 | 0.07965152 | 6.8e−8 rel. | 1e−6 | ok
+expected peak acceleration, untuned (milli-g) | 6.124315 | 6.124316 | 7.0e−8 rel. | 1e−6 | ok
+RMS damper stroke, untuned (m) | 0.1151475 | 0.1151475 | 6.8e−8 rel. | 1e−6 | ok
+H2 design after a 7% period increase: peak | 15.67364 | 15.67364 | 3.2e−14 rel. | 1e−6 | ok
+H2 design after a 7% period increase: RMS ratio | 0.651922 | 0.651922 | 3.7e−15 rel. | 1e−8 | ok
+steady sway at resonance vs Python (m) | 0.09590226 | 0.09590226 | 5.7e−9 rel. | 2e−4 | ok
+steady sway at resonance vs transfer function (m) | 0.09590226 | 0.09590525 | 3.1e−5 rel. | 2e−4 | ok
+energy balance: input = stored + dissipated | 0.9999704 | 1 | 3.0e−5 rel. | 1e−3 | ok
+energy drift with all damping removed (300 s) | 9.7971e−9 | 0 | 9.8e−9 | 1e−6 | ok
+El Centro 1940: peak sway, no damper (m) | 0.6256705 | 0.6256706 | 2.4e−9 rel. | 1e−3 | ok
+El Centro 1940: peak sway, H2 damper (m) | 0.4945469 | 0.4945469 | 1.5e−9 rel. | 1e−3 | ok
+El Centro 1940: peak stroke (m) | 2.462793 | 2.462793 | 2.2e−9 rel. | 1e−3 | ok
+long-period (synthetic): peak sway, no damper (m) | 0.6256693 | 0.6256706 | 2.0e−6 rel. | 1e−3 | ok
+long-period (synthetic): peak sway, H2 damper (m) | 0.3077851 | 0.3077856 | 1.6e−6 rel. | 1e−3 | ok
+long-period (synthetic): peak stroke (m) | 1.574817 | 1.57482 | 1.6e−6 rel. | 1e−3 | ok
+near-fault pulse (synthetic): peak sway, no damper (m) | 0.6256706 | 0.6256706 | 4.0e−9 rel. | 1e−3 | ok
+near-fault pulse (synthetic): peak sway, H2 damper (m) | 0.6092275 | 0.6092275 | 3.9e−9 rel. | 1e−3 | ok
+near-fault pulse (synthetic): peak stroke (m) | 2.373762 | 2.373762 | 4.2e−9 rel. | 1e−3 | ok
+H2 optimum: tuning ratio f | 0.9867765 | 0.9867765 | 2.8e−9 | 2e−5 | ok
+H2 optimum: damper damping | 0.06410665 | 0.06410665 | 1.0e−9 | 2e−5 | ok
+H-infinity optimum: f | 0.9807232 | 0.9807227 | 5.0e−7 | 1e−3 | ok
+H-infinity optimum: damper damping | 0.0807821 | 0.08078274 | 6.4e−7 | 1e−3 | ok
+
+rows: 43  marked pass: 43  page errors: none
+summary text: The page and the Python model agree on all 43 checks.

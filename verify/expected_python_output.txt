@@ -1,0 +1,14 @@
+== tuning ==
+Design A (Den Hartog): f = 0.9836  zeta_d = 0.0784  peak = 11.01
+Design B (numerical average-sway optimum): f = 0.9868  zeta_d = 0.0641  average-sway ratio = 0.584
+lowest-peak design: f = 0.9807  zeta_d = 0.0808  peak = 8.56
+Design B: L = 11.34 m   peak = 9.25
+
+== wind (50 random storms) ==
+mean biggest acceleration: 7.15 -> 4.72 milli-g  (cut 34%)
+
+== tower going out of tune ==
+ -6.5%  peak 15.63  (+69%)  average-sway ratio 0.651
+ -3.0%  peak 11.91  (+29%)  average-sway ratio 0.600
+ +0.0%  peak 9.25  (+0%)  average-sway ratio 0.584
+ +3.0%  peak 10.81  (+17%)  average-sway ratio 0.598
